@@ -1,6 +1,10 @@
 from enum import Enum
 
 
+# Open-Closed Principle
+# - Classes should be open for extension but closed for modification
+
+
 class Color(Enum):
     RED = 1
     GREEN = 2

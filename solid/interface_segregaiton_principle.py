@@ -1,4 +1,9 @@
 # ISP
+
+# Interface Segregation Principle
+# - Don't put too much into an interface; split into separate interfaces
+# - YAGNI - You Ain't Going to Need It
+
 from abc import abstractmethod
 
 
